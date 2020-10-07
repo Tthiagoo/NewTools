@@ -6,7 +6,7 @@ import Input from '../components/Input'
 import {useColorMode, IconButton} from '@chakra-ui/core'
 
 
-export default function Home() {
+export default function cadastro() {
   const { colorMode, toggleColorMode} = useColorMode();
   const ThemeSelector:React.FC = () => {
 		
