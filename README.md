@@ -21,6 +21,27 @@
 </p>
 
 
-
-
 ## Tecnologias Utilizadas
+
+ - <b>NextJs:</b> Next.js é um framework React com foco em produção e eficiência criado e mantido pela equipe da Vercel, o Next busca reunir diversas funcionalidades como renderização hibrida e estática de conteúdo, suporte a TypeScript, pre-fetching, sistema de rotas, pacotes de funcionalidades e diversos plugins e exemplos para acelerar seu desenvolvimento fornecendo uma estrutura completa para você iniciar seu projeto.
+ 
+  - <b>Chakra UI:</b> Uma biblioteca de componentes simples, modular e acessível que fornece todos os blocos de construção para construir aplicativos React. Também é possivel fazer referência a valores de maneira rápida e fácil de seu tema em todo o aplicativo, em qualquer componente.
+  
+  - <b>TypeScript:</b> TypeScript é uma linguagem de código aberto que se baseia em JavaScript, adicionando definições de tipagem estatica. Tipos fornecem uma maneira de descrever a forma de um objeto, fornecendo melhor documentação e permitindo que o TypeScript valide se seu código está funcionando corretamente.
+ 
+## Instalação
+
+Clone este projeto e com o terminal aberto, rode este comando na pasta <b>web</b>: 
+
+<b>Com yarn</b>
+```sh
+yarn 
+```
+<br>
+
+<b>Com npm</b>
+```sh
+npm install
+```
+
+
