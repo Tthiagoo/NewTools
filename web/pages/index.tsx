@@ -91,7 +91,7 @@ export default function Home() {
         <Text
           textAlign="center"
           fontSize="sm"
-          color="gray.400"
+          color="white"
           marginTop={6}
         >
           Não tem uma conta? {" "}
