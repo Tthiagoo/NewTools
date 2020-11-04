@@ -10,6 +10,8 @@
   </h4>
 </div>
 
+ --- 
+
 #### Light Mode:
 <p align="center">
   <img alt="telaLogin" src="https://user-images.githubusercontent.com/51219408/98130889-811e2c80-1e99-11eb-8a64-6ba6ce8c098d.png" width="600" height="300"/>
