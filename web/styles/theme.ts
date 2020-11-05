@@ -27,8 +27,8 @@ const customTheme: DefaultTheme = {
     
     blue: {
       ...theme.colors.blue,
-      900:'#0B0B3B',
-      800: '#160f54',
+      900:'#070733',
+      800: '#0e0840',
       100:'#f3f7f9',
       200:'#b2cfe6',
       700:'#3f6379'
