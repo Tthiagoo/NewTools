@@ -19,7 +19,7 @@
 
 #### Dark Mode:
 <p align="center">
-  <img alt="telaLogin" src="https://user-images.githubusercontent.com/51219408/98131845-72844500-1e9a-11eb-913c-a390ef791f3c.png" width="600" height="300"/>
+  <img alt="telaLogin" src="https://user-images.githubusercontent.com/51219408/98246770-8343c200-1f51-11eb-8228-bd340622ca91.png" width="600" height="300"/>
 </p>
 
 
